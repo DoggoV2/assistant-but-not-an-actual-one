@@ -1,8 +1,7 @@
 # This script heavily relies on bash to function.
 # you might want to tweak some code to make some
 # features work !!
-from bs4 import BeautifulSoup
-import urbandictionary
+
 import wikipedia
 import os
 import googlesearch
